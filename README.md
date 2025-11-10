@@ -4,8 +4,8 @@
 📌 Note on Project Progress
 - Initially, the frontend and backend were developed in separate repositories to organize and manage development independently. As the project matured, both were integrated into this repository for easier maintenance and deployment.
 
-- Frontend Repository: [DevSwipe Frontend](https://github.com/avdeshsingh415/devTinder-web)
-- Backend Repository: [DevSwipe Backend](https://github.com/avdeshsingh415/devTinder)
+- Frontend Repository: [matchmaking Frontend](https://github.com/avdeshsingh415/devTinder-web)
+- Backend Repository: [matchmaking Backend](https://github.com/avdeshsingh415/devTinder)
 - These separate repositories provide a detailed record of the progress and development journey of the project. Feel free to explore them to understand the incremental improvements made during the development process.
 
 **About matchmaking-fullStack**
@@ -109,3 +109,4 @@
     - Host the project live to make it accessible to users online.
 
  
+
